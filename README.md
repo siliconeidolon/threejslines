@@ -1,2 +1,0 @@
-# threejslines
-Created with CodeSandbox
